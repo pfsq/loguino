@@ -1,30 +1,30 @@
-[submodule "3rdParty/NMEA"]
-	path = 3rdParty/NMEA
-	url = https://github.com/irvined1982/arduino-nmea.git
-[submodule "3rdParty/ELM327"]
-	path = 3rdParty/ELM327
-	url = https://github.com/irvined1982/arduino-ELM327.git
-[submodule "3rdParty/DallasTemperature"]
-	path = 3rdParty/DallasTemperature
-	url = https://github.com/irvined1982/Arduino-Temperature-Control-Library.git
-[submodule "3rdParty/DHT"]
-	path = 3rdParty/DHT
-	url = https://github.com/irvined1982/DHT-sensor-library.git
-[submodule "3rdParty/LIS331"]
-	path = 3rdParty/LIS331
-	url = https://github.com/irvined1982/arduino-LIS331.git
-[submodule "3rdParty/ITG3200"]
-	path = 3rdParty/ITG3200
-	url = https://github.com/irvined1982/itg3200.git
-[submodule "3rdParty/Adafruit_BMP085"]
-	path = 3rdParty/Adafruit_BMP085
-	url = https://github.com/irvined1982/Adafruit-BMP085-Library.git
-[submodule "3rdParty/PubSubClient"]
-	path = 3rdParty/PubSubClient
-	url = https://github.com/irvined1982/pubsubclient.git
-[submodule "3rdParty/TinyGPS"]
-	path = 3rdParty/TinyGPS
-	url = https://github.com/irvined1982/TinyGPS.git
-[submodule "3rdParty/SD"]
-	path = 3rdParty/SD
-	url = https://github.com/irvined1982/SD.git
+#[submodule "3rdParty/NMEA"]
+#	path = 3rdParty/NMEA
+#	url = https://github.com/irvined1982/arduino-nmea.git
+#[submodule "3rdParty/ELM327"]
+#	path = 3rdParty/ELM327
+#	url = https://github.com/irvined1982/arduino-ELM327.git
+#[submodule "3rdParty/DallasTemperature"]
+#	path = 3rdParty/DallasTemperature
+#	url = https://github.com/irvined1982/Arduino-Temperature-Control-Library.git
+#[submodule "3rdParty/DHT"]
+#	path = 3rdParty/DHT
+#	url = https://github.com/irvined1982/DHT-sensor-library.git
+#[submodule "3rdParty/LIS331"]
+#	path = 3rdParty/LIS331
+#	url = https://github.com/irvined1982/arduino-LIS331.git
+#[submodule "3rdParty/ITG3200"]
+#	path = 3rdParty/ITG3200
+#	url = https://github.com/irvined1982/itg3200.git
+#[submodule "3rdParty/Adafruit_BMP085"]
+#	path = 3rdParty/Adafruit_BMP085
+#	url = https://github.com/irvined1982/Adafruit-BMP085-Library.git
+#[submodule "3rdParty/PubSubClient"]
+#	path = 3rdParty/PubSubClient
+#	url = https://github.com/irvined1982/pubsubclient.git
+#[submodule "3rdParty/TinyGPS"]
+#	path = 3rdParty/TinyGPS
+#	url = https://github.com/irvined1982/TinyGPS.git
+#[submodule "3rdParty/SD"]
+#	path = 3rdParty/SD
+#	url = https://github.com/irvined1982/SD.git
